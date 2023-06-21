@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fsreeshilck&psig=AOvVaw2wYwtdxJsMTGVBsf5n2veg&ust=1687465903888000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPCAv8Ca1f8CFQAAAAAdAAAAABAJ)](https://github.com/Md-Kaif-Ansari)
+![logo](https://github.com/Md-Kaif-Ansari/Md-Kaif-Ansari/blob/main/img.jpg)
 <h1 align="center">Hi 👋, I'm Md Kaif Ansari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -6,8 +6,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-kaif-ansari&label=Profile%20views&color=0e75b6&style=flat" alt="md-kaif-ansari" /> </p>
 
 - 🌱 I’m currently learning **JavaScript, Node.js**
-
-- 👯 I’m looking for Internship. **SDE Internship**
 
 - 📝 I regularly write articles on [https://www.blogger.com/blog/posts/383153012112268365](https://www.blogger.com/blog/posts/383153012112268365)
 
@@ -17,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/md kaif ansari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md kaif ansari" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/md-kaif-ansari-38a43722b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-kaif-ansari-38a43722b/" height="30" width="40" /></a>
 <a href="https://instagram.com/md_kaiff_12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="md_kaiff_12" height="30" width="40" /></a>
 </p>
 
